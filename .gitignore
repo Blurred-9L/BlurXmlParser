@@ -1,0 +1,9 @@
+*.o
+Dump/
+BlurParser
+BlurDataStructures
+Resources/test.xml
+Resources/test2.xml
+Resources/test3.xml
+Resources/test4.xml
+a.out

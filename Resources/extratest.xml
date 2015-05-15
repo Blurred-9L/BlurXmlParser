@@ -1,0 +1,41 @@
+<materia>
+    <nombre>Mi materia</nombre>
+    <clave>Mi clave</clave>
+    <horarios>
+        <horario>
+            <dia>Martes</dia>
+            <hora>9:00</hora>
+            <duracion>2</duracion>
+        </horario>
+        <horario>
+            <dia>Jueves</dia>
+            <hora>9:00</hora>
+            <duracion>2</duracion>
+        </horario>
+        <horario>
+            <dia>Vieres</dia>
+            <hora>9:00</hora>
+            <duracion>1</duracion>
+        </horario>
+    </horarios>
+    <alumnos>
+        <alumno>
+            <numero_lista>1</numero_lista>
+            <nombre>Nombre 1</nombre>
+            <apellidos>Apellidos 1</apellidos>
+            <codigo>000000000</codigo>
+        </alumno>
+        <alumno>
+            <numero_lista>2</numero_lista>
+            <nombre>Nombre 2</nombre>
+            <apellidos>Apellidos 2</apellidos>
+            <codigo>000000001</codigo>
+        </alumno>
+        <alumno>
+            <numero_lista>3</numero_lista>
+            <nombre>Nombre 3</nombre>
+            <apellidos>Apellidos 3</apellidos>
+            <codigo>000000002</codigo>
+        </alumno>
+    </alumnos>
+</materia>

@@ -1,0 +1,13 @@
+<rss>
+    <channel>
+        <title>Titulo</title>
+        <link>Esto deberia ser un link</link>
+        <description>La descripcion</description>
+        <item>
+            <title>Titulo del item</title>
+            <link>Link del item</link>
+            <description>Descripcion del item</description>
+        </item>
+    </channel>
+    
+</rss>        
